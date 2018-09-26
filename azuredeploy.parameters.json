@@ -3,16 +3,16 @@
   "contentVersion": "1.0.0.0",
   "parameters": {
     "adminUsername": {
-      "value": "GEN-UNIQUE"
+      "value": "nitinpokharna"
     },
     "adminPassword": {
-      "value": "GEN-PASSWORD"
+      "value": "Ansible@1234"
     },
     "domainName": {
       "value": "mydomain.local"
     },
     "dnsPrefix": {
-      "value": "GEN-UNIQUE"
+      "value": "nitindns"
     }
   }
 }
